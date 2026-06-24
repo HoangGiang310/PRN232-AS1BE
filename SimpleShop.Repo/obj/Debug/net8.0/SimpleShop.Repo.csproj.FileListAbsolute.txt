@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\bin\Debug\net8.0\SimpleShop.Repo.deps.json
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\bin\Debug\net8.0\SimpleShop.Repo.dll
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\bin\Debug\net8.0\SimpleShop.Repo.pdb
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.sourcelink.json
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.dll
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\refint\SimpleShop.Repo.dll
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\SimpleShop.Repo.pdb
+C:\Users\Admin\Downloads\BE\PRN232-AS1BE\SimpleShop.Repo\obj\Debug\net8.0\ref\SimpleShop.Repo.dll

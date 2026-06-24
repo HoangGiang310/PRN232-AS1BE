@@ -6,5 +6,6 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleShop.Repo\SimpleShop.Repo.csproj" />
+    
   </ItemGroup>
 </Project>

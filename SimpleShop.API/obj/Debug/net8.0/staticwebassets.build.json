@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ljSw+bJSmJQlHcRqKesYKvhGZU6WjyoszO7XkVOuzkU=",
+  "Source": "SimpleShop.API",
+  "BasePath": "_content/SimpleShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

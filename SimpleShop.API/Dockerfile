@@ -1,11 +1,17 @@
+
+
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+WORKDIR /app
+
 COPY . .
-RUN dotnet restore SimpleShop.API/SimpleShop.API.csproj
-RUN dotnet publish SimpleShop.API/SimpleShop.API.csproj -c Release -o /app/publish
+RUN dotnet restore
+RUN dotnet publish -c Release -o out
+
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build /app/publish .
-ENV ASPNETCORE_URLS=http://+:10000
-EXPOSE 10000
+
+COPY --from=build /app/out .
+
+EXPOSE 8080
+
 ENTRYPOINT ["dotnet","SimpleShop.API.dll"]

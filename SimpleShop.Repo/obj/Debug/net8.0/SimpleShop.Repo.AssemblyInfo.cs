@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleShop.Repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b1f1d3e168a60e7f6b1850bc970c65bdaf2d13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c491d2e67753d0caed8b3b32a43d35b29537c88b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleShop.Repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleShop.Repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
